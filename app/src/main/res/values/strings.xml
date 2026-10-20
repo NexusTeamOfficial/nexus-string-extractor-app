@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexus String Extractor</string>
+    <string name="res_path_hint">Resource folder path (res/)</string>
+    <string name="save_path_hint">Save path for strings.xml (optional)</string>
+    <string name="browse_res">Browse res/</string>
+    <string name="browse_save">Browse save</string>
+    <string name="execute">Execute</string>
+    <string name="dry_run">Dry run</string>
+    <string name="backup">Create .bak backup</string>
+    <string name="permission_title">Storage permission required</string>
+    <string name="permission_message">This app needs All files access to read/write project folders. Grant permission on the next screen, then return here.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="permission_granted">Storage permission granted</string>
+    <string name="permission_denied">Storage permission not granted — cannot access files</string>
+    <string name="log_hint">Output log will appear here…</string>
+    <string name="prefix_hint">Name prefix (optional, e.g. str_)</string>
+</resources>
